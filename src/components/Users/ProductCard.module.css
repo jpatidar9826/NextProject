@@ -1,0 +1,16 @@
+.productCard{
+    width: 90vw;
+    max-width: 350px;
+    height: fit-content;
+    text-align: center;
+    border: 1px solid white;
+    margin: 10px;
+    border-radius: 1rem;
+    background-color: #77002e;
+    overflow: hidden;
+}
+
+.productImg{
+    max-width: 100%;
+    height: auto;
+}
